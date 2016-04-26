@@ -2,6 +2,7 @@ name: Mirko
 favicon: null
 layout_spectrum: 0.6114281257614493
 typography_spectrum: 0.013739673420786858
+title: Hello World
 cta:
   domain: null
   bucket: null
